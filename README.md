@@ -13,7 +13,7 @@ You can add and delete Expenses easily with different categories.
 Clone the project
 
 ```bash
-  git clone https://github.com/Bug-Slicers/expensetracker.git
+  
 ```
 
 Go to the project directory
