@@ -13,7 +13,7 @@ You can add and delete Expenses easily with different categories.
 Clone the project
 
 ```bash
-  https://github.com/VatsalMistry/Expense_Tracker
+  git clone https://github.com/VatsalMistry/Expense_Tracker.git
 ```
 
 Go to the project directory
